@@ -1,0 +1,30 @@
+PALAVRA_RESERVADA  
+	(A..Z)
+	
+IDENTIFICADORES 
+	(a..z)  (A..Z|0..9|a..z)*
+	
+NUMEROS  
+	(0..9)+
+	
+PONTUACAO  
+	; | : | ,
+	
+OPERADORES_RELACIONAL 
+	= | <> | < | <= | >= | >
+	
+ATRIBUICAO  
+	:=
+	
+OPERADORES
+	+ | - | * | /
+	
+AP/FP
+	( | )
+	
+FIM DO ARQUIVO
+	
+	
+	
+	
+
